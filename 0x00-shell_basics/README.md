@@ -1,1 +1,1 @@
-i am working now
+display the contents list of your current directory in a long format
