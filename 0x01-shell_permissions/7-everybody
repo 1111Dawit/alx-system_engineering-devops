@@ -1,2 +1,2 @@
--rwxr-x--x
+#!/bin/bash
 chmod -rwxr-x--x
