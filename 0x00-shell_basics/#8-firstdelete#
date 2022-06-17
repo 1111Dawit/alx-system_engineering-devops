@@ -1,0 +1,3 @@
+#!/bin/bash
+rm /tmp/holberton/betty
+8-firstdelete
